@@ -1,5 +1,3 @@
 /*
- * �_�~�[�t�@�C��
- * File:   evkart.ino
- * Author: k-abe
+ * Arduino IDE *.ino ダミーファイル
  */
