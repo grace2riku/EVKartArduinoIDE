@@ -34,7 +34,7 @@
 
 
 /***** パイロットLED *****/
-#define PILOT_LED (13) /* Aruduino MEGAに実装されているLED */
+#define PILOT_LED (13) /* Arduino MEGAに実装されているLED */
 
 
 #endif
